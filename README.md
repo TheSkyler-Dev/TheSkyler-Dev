@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning Python, CSS, C++
 - 💞️ I’m looking to collaborate on nothing so far
-- 📫 How to reach me kesch.inno14@gmail.com
+- 📫 How to reach me [CLASSIFIED]
 
 <!---
 WhiteyCodes/WhiteyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
