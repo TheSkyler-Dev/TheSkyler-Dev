@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WhiteyCodes
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning Python, CSS, C++
+- 🌱 I’m currently learning Python, Java, C++, PowerShell and BASH
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 How to reach me [CLASSIFIED]
 
