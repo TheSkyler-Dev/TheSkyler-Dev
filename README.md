@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @WhiteyCodes
 - Please call me Sodiepop or Skyler!
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning Python, Java, C++, HTML, CSS, JavaScript and PowerShell and BASH
+- 🌱 I’m currently learning Python and C++
+- 🎓 Apprentice Software engineer 
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 How to reach me [CLASSIFIED]
 
