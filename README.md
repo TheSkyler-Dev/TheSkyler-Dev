@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhiteyCodes
+- 👋 Hi, I’m @TheSkyler-Dev
 - Please call me Sodiepop or Skyler!
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning Python and C++
