@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheSkyler-Dev
 - Please call me Sodiepop or Skyler!
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning TypeScript
 - 🎓 Apprentice Software engineer 
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 How to reach me [CLASSIFIED]
