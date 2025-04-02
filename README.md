@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TheSkyler-Dev
 - Please call me Sodiepop or Skyler!
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Haskell, planning to learn Ada, C, Zig and Assembly
 - 🎓 Apprentice Software engineer 
-- 💞️ I’m looking to collaborate on nothing so far
+- 💞️ I’m looking to collaborate on simple, but useful systems programming and CLI projects
 - 📫 How to reach me [CLASSIFIED]
 
 <!---
