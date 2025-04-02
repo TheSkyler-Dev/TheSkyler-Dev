@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheSkyler-Dev
-- Please call me Sodiepop or Skyler!
+- Please call me Skyler or Sky!
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning Haskell, planning to learn Ada, C, Zig and Assembly
 - 🎓 Apprentice Software engineer 
