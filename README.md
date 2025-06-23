@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheSkyler-Dev
 - Please call me Skyler or Sky!
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning Haskell, planning to learn Ada, C, Zig and Assembly
+- 🌱 I’m currently taking a look at Ada, C, Rut, Lua, Swift, Fortran and GLSL (Possibly also Mojo)
 - 🎓 Apprentice Software engineer 
 - 💞️ I’m looking to collaborate on simple, but useful systems programming and CLI projects
 - 📫 How to reach me [CLASSIFIED]
